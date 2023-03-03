@@ -1,5 +1,5 @@
 /**
- * for ATmega328p or Arduino uno, nano, pro mini 
+ * for ATmega328p or Arduino uno, nano, pro mini  oraz Atmega32A (fusbity: L:0xFF, H:0xD8, LB:0xFF)
  * Autor: Romuald Milewski
  *
  * The third processor for registers converted Yamaha E-10AR to a MIDI console

@@ -1,5 +1,5 @@
 /**
- * for ATmega328p or Arduino uno, nano, pro mini
+ * for ATmega328p or Arduino uno, nano, pro mini 
  * Autor: Romuald Milewski
  *
  * The third processor for registers converted Yamaha E-10AR to a MIDI console
@@ -67,12 +67,13 @@ NoteButton buttons[] = {
     {21, {note(A, 3), CHANNEL_2}},
     {22, {note(Bb, 3), CHANNEL_2}},
     {23, {note(B, 3), CHANNEL_2}},
-    {11, {note(C, 4), CHANNEL_2}},
-    {15, {note(Db, 4), CHANNEL_2}},
-    {12, {note(D, 4), CHANNEL_2}},
-    {13, {note(Eb, 4), CHANNEL_2}},
-    {14, {note(E, 4), CHANNEL_2}},
-    
+    {10, {note(C, 4), CHANNEL_2}},
+    {11, {note(Db, 4), CHANNEL_2}},
+    {15, {note(D, 4), CHANNEL_2}},
+    {12, {note(Eb, 4), CHANNEL_2}},
+    {13, {note(E, 4), CHANNEL_2}},
+    {14, {note(F_, 4), CHANNEL_2}},
+  
   
     
 };
